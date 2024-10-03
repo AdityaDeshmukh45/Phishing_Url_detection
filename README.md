@@ -92,7 +92,7 @@ The **Random Forest Classifier** provided the highest accuracy and was chosen fo
 - **HTML/CSS**: Front-end of the web application.
 
 ## Screenshots
-[WhatsApp Image 2024-10-04 at 01 16 46_fc5caf48](https://github.com/user-attachments/assets/721e409a-b28b-4da5-b069-88eccbcad590)
+![WhatsApp Image 2024-10-04 at 01 16 46_fc5caf48](https://github.com/user-attachments/assets/721e409a-b28b-4da5-b069-88eccbcad590)
 ![WhatsApp Image 2024-10-04 at 01 18 28_f9622841](https://github.com/user-attachments/assets/7595c939-9a83-43bd-b8ff-71d51c29fbcb)
 
 
