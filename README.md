@@ -100,4 +100,3 @@ This project demonstrates how machine learning models can be effectively applied
 
 --- 
 
-This README provides a complete overview of your project, including the core idea, methodology, models used, feature extraction process, and the workflow for running the project.
