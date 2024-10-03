@@ -1,5 +1,3 @@
-Here’s a detailed description you can include in the `README.md` file for your phishing detection project:
-
 ---
 
 # Phishing Detection Using Machine Learning
