@@ -1,3 +1,5 @@
+setuptools>=68.0.0
+wheel>=0.41.0
 beautifulsoup4==4.13.0
 Flask==2.3.2
 googlesearch_python==1.1.0
