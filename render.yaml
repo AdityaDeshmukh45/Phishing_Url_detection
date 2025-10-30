@@ -1,11 +1,7 @@
 services:
   - type: web
-    name: phishing-detector
+    name: phishing-url-detection
     env: python
-    plan: free
-    region: oregon
-    buildCommand: |
-      pip install --upgrade pip setuptools wheel
-      pip install -r requirements.txt
-    startCommand: gunicorn app:app
-    pythonVersion: 3.10.13
+    pythonVersion: "3.11"
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn app:app"
